@@ -1,0 +1,15 @@
+{
+  "name": "d2-test-standalone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d2": "^24.0.12",
+    "jquery": "^3.0.0"
+  }
+}
